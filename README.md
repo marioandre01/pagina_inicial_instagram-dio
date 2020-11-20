@@ -14,7 +14,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#bulb-funcionamento-da-aplicação">Funcionamento da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando-a-aplicação">Executando a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -34,7 +33,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="pagina_inicial_instagram" title="pagina_inicial_instagram" src="imgs/pagina_inicial_instagram.png" width="400px">
+  <img alt="pagina_inicial_instagram" title="pagina_inicial_instagram" src="img/pagina_inicial_instagram.png" width="400px">
 </p>
 
 
