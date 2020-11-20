@@ -33,7 +33,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="pagina_inicial_instagram" title="pagina_inicial_instagram" src="img/pagina_inicial_instagram.png" width="400px">
+  <img alt="pagina_inicial_instagram" title="pagina_inicial_instagram" src="img/pagina_inicial_instagram.png" width="800px">
 </p>
 
 
